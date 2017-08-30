@@ -1,0 +1,22 @@
+{
+  "name": "geotag",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tony McLaughlin <tmclaughlin@intelepeer.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mackdesignarts/geotag",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
